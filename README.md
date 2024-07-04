@@ -24,6 +24,10 @@ I use JIRA, ClickUp, and Trello with Scrum methodologies for streamlined project
 
 ## Projects
 
+### WazifaMe
+
+[Wazifame](https://www.wazifame.com/) is a job portal targeted for candidates and employers located in Middle East and North Africa Region. I was resnposible to implement features such as authentication with Google, Linkedin, Photo Upload restrictions and Cropping. I was also primarily responsible to enhance website performance and implement best practices for technical SEO.
+
 ### Compliance View
 
 [Compliance View](https://www.compliance-view.com/) is a management consulting firm focused on information security, Compliance View offers a wide array of protective services to assure that your organization is secure. I was responsible for creating their website and backend software which helps them collaborate with their clients and generate PCI DSS ROC v4 Compliance Reports. I also created AI Chatbot for their clients that gathers information for SAQ reports and generates various types of SAQ reports automatically. Tech Stack: Open AI APIs, MERN Stack, Python
