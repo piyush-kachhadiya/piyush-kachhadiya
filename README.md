@@ -8,7 +8,7 @@ I am a seasoned Full Stack Developer with 7+ years of experience. I specialize i
 I create customized AI Solutions such as chatbots, translations, financial calculators, image generator and more using Open AI, Claude 3 and other LLM APIs.
 
 💻 Strong Backend Skills:
-I'm proficient in MEAN, MERN, NextJS, NodeJS, NestJS, with advanced database management in Supabase, MySQL, MongoDB with Redis.
+I'm expert in MEAN, MERN, NextJS, NodeJS, NestJS, with advanced database management in Supabase, MySQL, MongoDB with Redis.
 
 🎨 Front-End Expertise:
 I pay meticulous attention to ReactJS, Angular, Tailwind, JavaScript, Bootstrap, and jQuery for a top-notch user experience.
