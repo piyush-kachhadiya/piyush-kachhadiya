@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a seasoned Full Stack Developer with 5+ years of experience. I specialize in MEAN/MERN Stack, Tailwind. I have worked on a projects across multiple industries such Cybersecurity, E-commerce, Healthcare, Food Delivery, Marketing, Real Estate, and Gaming.
+I am a seasoned Full Stack Developer with 7+ years of experience. I specialize in MEAN/MERN Stack, Tailwind. I have worked on a projects across multiple industries such Cybersecurity, E-commerce, Healthcare, Food Delivery, Marketing, Real Estate, and Gaming.
 
 ## What I Offer:
 
@@ -63,9 +63,11 @@ I use JIRA, ClickUp, and Trello with Scrum methodologies for streamlined project
 ## Skills
 
 **Backend:** NextJS, NestJS. Express, Python, Typescript
-**Frontend:** ReactJS, Angular, TailwindCSS, Typescript
-**Databases:** MySQL, MongoDB, PostgreSQL
-**Deployment:** AWS, Digital Ocean
 
+**Frontend:** ReactJS, Angular, TailwindCSS, Typescript
+
+**Databases:** MySQL, MongoDB, PostgreSQL
+
+**Server:** AWS VPC, EC2, Cloudfront, S3, SNS, SES, EventBridge, Codecommit, Codedeploy, Pipelines, Route53, Lightsail, Digital Ocean
 
 Every project I take on is an opportunity to showcase my commitment to excellence. Let's collaborate and turn your ideas into successful projects. Looking forward to working together! 🚀🌟
