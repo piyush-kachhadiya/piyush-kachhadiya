@@ -24,6 +24,14 @@ I use JIRA, ClickUp, and Trello with Scrum methodologies for streamlined project
 
 ## Projects
 
+### Now Optics
+
+[Nowoptics](https://www.nowoptics.com/) I was responsible to develop their entier website in NextJS Stack. My Eyelab and Stanton Optical are their brands, which are US's fastest growing, full-service retail optical centers. They continue to expand their retail footprint with nearly 300 corporate and franchise locations in 29 states while delivering easy and affordable eye care services.
+
+### Stanton Optical
+
+[Stantonoptical](https://www.stantonoptical.com/) Stanton Optical provids thousands of stylish frames at competitive and affordable prices. Their affiliated doctor network in-store also provides complete eye exams including a vision health check for a full-service experience. I was responsible to develop many modules in NextJS stack including implementing SEO features. I also performance tuned their website using Page Speed Insights and GTMetrix. They make about $20,000 in revenue monthly from their online website.
+
 ### WazifaMe
 
 [Wazifame](https://www.wazifame.com/) is a job portal targeted for candidates and employers located in Middle East and North Africa Region. I was resnposible to implement features such as authentication with Google, Linkedin, Photo Upload restrictions and Cropping. I was also primarily responsible to enhance website performance and implement best practices for technical SEO.
