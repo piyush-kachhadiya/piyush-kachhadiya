@@ -5,7 +5,7 @@ I am a seasoned Full Stack Developer with 5+ years of experience. I specialize i
 ## What I Offer:
 
 🤖 AI Solutions:
-I create customized AI Solutions such as chatbots, translations, financial calculators, image generator and more using Open AI, Claude 3 and other LLM APIs.
+I create customized AI Solutions using Google Vertex, AWS Bedrock, Open AI, Anthropic. Solutions include content generators, custom chatbots, financial calculators, image generators etc.
 
 💻 Strong Backend Skills:
 I'm expert in MEAN, MERN, NextJS, NodeJS, NestJS, with advanced database management in Supabase, MySQL, MongoDB with Redis.
