@@ -25,8 +25,11 @@ I use ClickUp, JIRA, and Trello with Scrum methodologies for streamlined project
 ## Skills
 
 **Backend:** NextJS, NestJS. Express, Python, Typescript
+
 **Frontend:** ReactJS, Angular, TailwindCSS, Typescript
+
 **Databases:** MySQL, MongoDB, Supabase(PostgreSQL), Firebase
+
 **Server:** AWS VPC, EC2, Cloudfront, S3, SNS, SES, EventBridge, Codecommit, Codedeploy, Pipelines, Route53, Lightsail, Digital Ocean
 
 ## Projects
