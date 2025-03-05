@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a seasoned Full Stack Developer with 7+ years of experience. I specialize in Next.js, MERN Stack, Tailwind. I have worked on a projects across multiple industries such Cybersecurity, Digital Marketing, E-commerce, Healthcare, Food Delivery, Marketing, Real Estate, and Gaming.
+I am a Seasoned Senior Full Stack Developer with 7+ years of experience. I specialize in Next.js, MERN Stack, Tailwind. I have worked on a projects across multiple industries such Cybersecurity, Digital Marketing, E-commerce, Healthcare, Food Delivery, Marketing, Real Estate, and Gaming.
 
 ## What I Offer:
 
