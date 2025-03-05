@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a seasoned Full Stack Developer with 5+ years of experience. I specialize in MEAN/MERN Stack, Tailwind. I have worked on a projects across multiple industries such Cybersecurity, E-commerce, Healthcare, Food Delivery, Marketing, Real Estate, and Gaming.
+I am a seasoned Full Stack Developer with 7+ years of experience. I specialize in Next.js, MERN Stack, Tailwind. I have worked on a projects across multiple industries such Cybersecurity, Digital Marketing, E-commerce, Healthcare, Food Delivery, Marketing, Real Estate, and Gaming.
 
 ## What I Offer:
 
@@ -20,9 +20,23 @@ I excel in integrating with Social APIs (Facebook Graph, Google, LinkedIn, Githu
 I'm proficient in AWS, cPanel, Google Cloud, and Azure for robust server-side management.
 
 📊 Effective Project Management:
-I use JIRA, ClickUp, and Trello with Scrum methodologies for streamlined project execution.
+I use ClickUp, JIRA, and Trello with Scrum methodologies for streamlined project execution.
+
+## Skills
+
+**Backend:** NextJS, NestJS. Express, Python, Typescript
+**Frontend:** ReactJS, Angular, TailwindCSS, Typescript
+**Databases:** MySQL, MongoDB, Supabase(PostgreSQL), Firebase
+**Server:** AWS VPC, EC2, Cloudfront, S3, SNS, SES, EventBridge, Codecommit, Codedeploy, Pipelines, Route53, Lightsail, Digital Ocean
 
 ## Projects
+
+### Genuo AI
+[GenuoAI](https://genuo.ai/) - I was responsible to create and maintain frontend and backend both along with integrating multiple LLMs into the App. Genuo AI is an ultumate content generator app similar to Jasper AI. I worked with one junior developer in the project and was responsible for code review and deployments.
+
+### Uptunrly
+[Upturnly](https://upturnly.com/) - Uptunrly is a B2B Cold email & LinkedIN outreach agency. I was responsible for creating their Performance Optimised, SEO Friendly website using Next.js using Supabase to manage contents.
+
 
 ### Now Optics
 
@@ -59,15 +73,5 @@ I use JIRA, ClickUp, and Trello with Scrum methodologies for streamlined project
 ### Madhuras - 1yr
 
 [Madhuras](https://play.google.com/store/apps/details?id=com.madhurasconsumer.app) is a a food delivery application. I was responsible for creating a customer-facing food delivery application and its backend using IONIC, NodeJS, ReactJS.
-
-## Skills
-
-**Backend:** NextJS, NestJS. Express, Python, Typescript
-
-**Frontend:** ReactJS, Angular, TailwindCSS, Typescript
-
-**Databases:** MySQL, MongoDB, PostgreSQL
-
-**Server:** AWS VPC, EC2, Cloudfront, S3, SNS, SES, EventBridge, Codecommit, Codedeploy, Pipelines, Route53, Lightsail, Digital Ocean
 
 Every project I take on is an opportunity to showcase my commitment to excellence. Let's collaborate and turn your ideas into successful projects. Looking forward to working together! 🚀🌟
